@@ -24,4 +24,4 @@ Perform the following tasks using JOIN only (no LEFT, RIGHT, OUTER).
   Create a query linking 3 tables with JOIN.
 
 - Query with aliases and sorting
-  Use aliases (AS) to name the columns or tables and sort the result.# CESAE-MySQL.
+  Use aliases (AS) to name the columns or tables and sort the result.
